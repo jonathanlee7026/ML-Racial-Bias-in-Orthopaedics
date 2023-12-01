@@ -4,4 +4,4 @@ Jonathan Lee BA, Megan Wei MS, Stephen Gillinov AB, Bilal Siddiq BS, Kieran Dowl
 
 PURPOSE: To develop a racially equitable machine learning model that accurately predicts overnight stay following knee arthroscopy. 
 
-Submitted to the Journal of Arthroscopy
+Submitted to Arthroscopy: The Journal of Arthroscopic & Related Surgery
