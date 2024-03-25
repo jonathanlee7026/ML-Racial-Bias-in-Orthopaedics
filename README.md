@@ -1,6 +1,6 @@
 # The Potential of Machine Learning to Mitigate Racial Inequities in Predictive Orthopaedic Models
 
-Jonathan Lee BA<sup>1</sup>, Mark Cote PT DPT MSCRT<sup>1</sup>, Megan Wei MS<sup>2</sup>, Stephen Gillinov AB<sup>1</sup>, Bilal Siddiq BS<sup>1</sup>, Kieran Dowley BA<sup>1</sup>, Nathan Cherian MD<sup>3</sup>, Scott D. Martin MD<sup>1</sup>
+Jonathan S. Lee BA<sup>1</sup>, Mark P. Cote PT DPT MSCRT<sup>1</sup>, Megan J. Wei MS<sup>2</sup>, Stephen M. Gillinov AB<sup>1</sup>, Bilal S. Siddiq BS<sup>1</sup>, Kieran S. Dowley BA<sup>1</sup>, Nathan J. Cherian MD<sup>3</sup>, Scott D. Martin MD<sup>1</sup>
 
 1) Department of Orthopaedic Surgery, Massachusetts General Hospital, Boston, Massachusetts, U.S.A
 2) Department of Computer Science, Johns Hopkins University, Baltimore, Maryland, U.S.A
